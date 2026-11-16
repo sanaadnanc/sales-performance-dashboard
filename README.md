@@ -2,7 +2,13 @@
 
 A two-page Power BI sales report with executive KPIs, a selectable metric trend, customer ranking, and a category drill-through page.
 
-The report has an **Executive Overview** page and a **Category Details** drill-through page (layout described below).
+![Executive Overview](images/dashboard.png)
+
+*Executive Overview page*
+
+![Category Details drill-through](images/category-details.png)
+
+*Category Details drill-through page*
 
 ## Business problem
 
